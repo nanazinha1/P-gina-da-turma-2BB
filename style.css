@@ -1,0 +1,9 @@
+ {margin:0;
+        padding:0;}>  
+        heder{
+            background-color: aqua;
+            color:black
+            display: flex;
+            justify-content: space-around;
+            padding: 24px 0;
+        }
