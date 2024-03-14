@@ -1,6 +1,7 @@
- {margin:0;
-        padding:0;}>  
-        heder{
+ *{margin:0;
+    padding:0;}
+
+        header{
             background-color: aqua;
             color:black
             display: flex;
